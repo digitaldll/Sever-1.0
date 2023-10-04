@@ -1,0 +1,1 @@
+put bobcat.lua inside qb-doorlock/configs
